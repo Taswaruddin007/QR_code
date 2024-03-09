@@ -1,0 +1,13 @@
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+.qr-generator{
+    padding-left: 30%;
+}
+#qr-code{
+    padding-left: 20%;
+}
+body{
+    background-color: bisque;
+}
